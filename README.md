@@ -10,4 +10,4 @@ Built with:
 Author: 
 - Jason Ven
 
-![user_interface](https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png)
+![user_interface](https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png = 250x250)
