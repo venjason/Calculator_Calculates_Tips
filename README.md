@@ -10,4 +10,7 @@ Built with:
 Author: 
 - Jason Ven
 
-![user_interface](https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png = 250x250)
+# User Interface
+![iOS Calculator](https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png)
+
+< https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png width="200" height="400">
