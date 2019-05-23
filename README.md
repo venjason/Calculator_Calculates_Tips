@@ -11,6 +11,5 @@ Author:
 - Jason Ven
 
 # User Interface
-![iOS Calculator](https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png)
+![iOS Calculator](https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png){:height="700px" width="400px"}
 
-< https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png width="200" height="400">
