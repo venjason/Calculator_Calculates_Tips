@@ -12,3 +12,5 @@ Author:
 
 # User Interface
 ![iOS Calculator](https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png){:height="50%" width="50%"}
+
+<img src="https://github.com/venjason/Calculator_Calculates_Tips/blob/master/user_interface.png" width="100" height="100">
